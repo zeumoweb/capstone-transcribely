@@ -1,0 +1,15 @@
+/venv
+venv
+doc
+node_modules
+.idea
+/uploads
+uploads
+/uploads/*
+/transcripts/*
+/subtitles/*
+/output/*
+/audio/*
+video.mp4
+/backend/env
+/backend/.env
